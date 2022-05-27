@@ -23,7 +23,8 @@
 
 ## Additional Info
 **1)** We Modified Our C++ PHOTOSHOP Code to Gui Program Using Qt Features<br />
-**2)** Qt Program Must be Installed On Your Pc
+**2)** Qt Program Must be Installed On Your Pc<br />
+**3)** Add Icons Folder on the Desktop
 
 
 >  CHECK This Repo For C++ Version : https://github.com/AbdelrhmanReda17/PHOTOSHOP<br />
